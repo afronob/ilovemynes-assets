@@ -1,0 +1,21 @@
+/* Flag Icons - Minimal version for NES regions */
+.fi {
+  display: inline-block;
+  width: 20px;
+  height: 15px;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.fi-eu {
+  background-image: url('./eu.svg');
+}
+
+.fi-us {
+  background-image: url('./us.svg');
+}
+
+.fi-jp {
+  background-image: url('./jp.svg');
+}
