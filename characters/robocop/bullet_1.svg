@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 6 6" width="6" height="6"
+     shape-rendering="crispEdges">
+<g id="frame0" style="display:inline">
+  <rect x="0" y="0" width="6" height="1" fill="#9cfcf0"/>
+  <rect x="0" y="1" width="6" height="1" fill="#9cfcf0"/>
+  <rect x="0" y="2" width="6" height="1" fill="#9cfcf0"/>
+  <rect x="0" y="3" width="6" height="1" fill="#9cfcf0"/>
+  <rect x="0" y="4" width="6" height="1" fill="#9cfcf0"/>
+  <rect x="0" y="5" width="6" height="1" fill="#9cfcf0"/>
+</g>
+</svg>
