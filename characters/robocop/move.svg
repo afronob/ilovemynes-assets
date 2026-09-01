@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
      viewBox="0 0 78 96" width="78" height="96"
      shape-rendering="crispEdges">
-<g id="frame0" style="display:inline">
+<g id="frame0" opacity="1">
   <rect x="44" y="2" width="10" height="1" fill="#000000"/>
   <rect x="44" y="3" width="10" height="1" fill="#000000"/>
   <rect x="42" y="4" width="2" height="1" fill="#000000"/>
@@ -577,7 +577,7 @@
   <rect x="34" y="95" width="6" height="1" fill="#000000"/>
   <rect x="54" y="95" width="6" height="1" fill="#000000"/>
 </g>
-<g id="frame1" style="display:none">
+<g id="frame1" opacity="0">
   <rect x="44" y="0" width="10" height="1" fill="#000000"/>
   <rect x="44" y="1" width="10" height="1" fill="#000000"/>
   <rect x="42" y="2" width="2" height="1" fill="#000000"/>
@@ -1081,7 +1081,7 @@
   <rect x="42" y="94" width="16" height="1" fill="#000000"/>
   <rect x="42" y="95" width="16" height="1" fill="#000000"/>
 </g>
-<g id="frame2" style="display:none">
+<g id="frame2" opacity="0">
   <rect x="44" y="2" width="10" height="1" fill="#000000"/>
   <rect x="44" y="3" width="10" height="1" fill="#000000"/>
   <rect x="42" y="4" width="2" height="1" fill="#000000"/>
@@ -1641,7 +1641,7 @@
   <rect x="34" y="95" width="6" height="1" fill="#000000"/>
   <rect x="54" y="95" width="6" height="1" fill="#000000"/>
 </g>
-<g id="frame3" style="display:none">
+<g id="frame3" opacity="0">
   <rect x="44" y="0" width="10" height="1" fill="#000000"/>
   <rect x="44" y="1" width="10" height="1" fill="#000000"/>
   <rect x="42" y="2" width="2" height="1" fill="#000000"/>
@@ -2113,8 +2113,8 @@
   <rect x="42" y="94" width="16" height="1" fill="#000000"/>
   <rect x="42" y="95" width="16" height="1" fill="#000000"/>
 </g>
-  <animate xlink:href="#frame0" attributeName="display" values="inline;none;none;none;inline" keyTimes="0.0;0.25;0.5;0.75;1.0" dur="0.8s" calcMode="discrete" repeatCount="indefinite"/>
-  <animate xlink:href="#frame1" attributeName="display" values="none;inline;none;none;none" keyTimes="0.0;0.25;0.5;0.75;1.0" dur="0.8s" calcMode="discrete" repeatCount="indefinite"/>
-  <animate xlink:href="#frame2" attributeName="display" values="none;none;inline;none;none" keyTimes="0.0;0.25;0.5;0.75;1.0" dur="0.8s" calcMode="discrete" repeatCount="indefinite"/>
-  <animate xlink:href="#frame3" attributeName="display" values="none;none;none;inline;none" keyTimes="0.0;0.25;0.5;0.75;1.0" dur="0.8s" calcMode="discrete" repeatCount="indefinite"/>
+  <animate xlink:href="#frame0" attributeName="opacity" values="1;0;0;0;1" keyTimes="0.0;0.25;0.5;0.75;1.0" dur="0.8s" calcMode="discrete" repeatCount="indefinite"/>
+  <animate xlink:href="#frame1" attributeName="opacity" values="0;1;0;0;0" keyTimes="0.0;0.25;0.5;0.75;1.0" dur="0.8s" calcMode="discrete" repeatCount="indefinite"/>
+  <animate xlink:href="#frame2" attributeName="opacity" values="0;0;1;0;0" keyTimes="0.0;0.25;0.5;0.75;1.0" dur="0.8s" calcMode="discrete" repeatCount="indefinite"/>
+  <animate xlink:href="#frame3" attributeName="opacity" values="0;0;0;1;0" keyTimes="0.0;0.25;0.5;0.75;1.0" dur="0.8s" calcMode="discrete" repeatCount="indefinite"/>
 </svg>
