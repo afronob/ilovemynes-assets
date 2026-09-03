@@ -1,0 +1,96 @@
+[
+  {
+    "id": "bd761c4b-f083-4309-bfcb-4421c0af6aa4",
+    "label": "Sprite 3",
+    "kind": "sprite",
+    "filename": "bd761c4b-f083-4309-bfcb-4421c0af6aa4.png",
+    "colors": [
+      "#000000",
+      "#f0d0b0",
+      "#f83800"
+    ],
+    "capturedAt": "2026-09-02T22:04:15.184Z"
+  },
+  {
+    "id": "6d6ce4c4-6718-47f3-872f-0244a3fc1fbc",
+    "label": "Sprite 2",
+    "kind": "sprite",
+    "filename": "6d6ce4c4-6718-47f3-872f-0244a3fc1fbc.png",
+    "colors": [
+      "#000000",
+      "#0058f8",
+      "#fce0a8"
+    ],
+    "capturedAt": "2026-09-02T22:04:17.417Z"
+  },
+  {
+    "id": "6c1e2078-e675-432f-9edf-d59ab6061f55",
+    "label": "colonne 19, ligne 17",
+    "kind": "background",
+    "filename": "6c1e2078-e675-432f-9edf-d59ab6061f55.png",
+    "colors": [
+      "#000000",
+      "#00b800",
+      "#503000",
+      "#ac7c00",
+      "#b8f818",
+      "#f8b800"
+    ],
+    "capturedAt": "2026-09-02T22:04:23.997Z"
+  },
+  {
+    "id": "36fb44ac-0c08-4549-bdaf-bde47c69eb7b",
+    "label": "Sprite 2",
+    "kind": "sprite",
+    "filename": "36fb44ac-0c08-4549-bdaf-bde47c69eb7b.png",
+    "colors": [
+      "#000000",
+      "#7c7c7c",
+      "#f8f8f8"
+    ],
+    "capturedAt": "2026-09-03T20:29:13.548Z"
+  },
+  {
+    "id": "3b174ea0-1811-4e03-baaa-95dba04c8907",
+    "label": "colonne 19, ligne 13",
+    "kind": "background",
+    "filename": "3b174ea0-1811-4e03-baaa-95dba04c8907.png",
+    "colors": [
+      "#000000",
+      "#00b800",
+      "#503000",
+      "#ac7c00",
+      "#b8f818",
+      "#f8b800"
+    ],
+    "capturedAt": "2026-09-03T20:29:29.998Z"
+  },
+  {
+    "id": "7b7de797-9e09-471c-a2c2-0fa97763b935",
+    "label": "colonne 19, ligne 13 (recadré)",
+    "kind": "background",
+    "filename": "7b7de797-9e09-471c-a2c2-0fa97763b935.png",
+    "colors": [
+      "#00b800",
+      "#000000",
+      "#b8f818",
+      "#503000",
+      "#ac7c00",
+      "#f8b800"
+    ],
+    "capturedAt": "2026-09-03T20:30:55.966Z"
+  },
+  {
+    "id": "51e182d8-cf2f-4e76-a6fb-0fe61af503fc",
+    "label": "Sprite 16",
+    "kind": "sprite",
+    "filename": "51e182d8-cf2f-4e76-a6fb-0fe61af503fc.png",
+    "colors": [
+      "#000000",
+      "#f0d0b0",
+      "#f83800",
+      "#f8f8f8"
+    ],
+    "capturedAt": "2026-09-03T20:32:50.351Z"
+  }
+]
