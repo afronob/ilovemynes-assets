@@ -1,0 +1,28 @@
+[
+  {
+    "id": "374fd19f-91c6-4ba3-ad0f-db0a74e1ece9",
+    "label": "Sprite 0",
+    "kind": "sprite",
+    "filename": "374fd19f-91c6-4ba3-ad0f-db0a74e1ece9.png",
+    "colors": [
+      "#000000",
+      "#0058f8",
+      "#f83800",
+      "#f87858"
+    ],
+    "capturedAt": "2026-09-04T06:19:55.876Z"
+  },
+  {
+    "id": "6e838867-979f-4f69-ac21-d4875144ea4c",
+    "label": "colonne 23, ligne 11 (recadré)",
+    "kind": "background",
+    "filename": "6e838867-979f-4f69-ac21-d4875144ea4c.png",
+    "colors": [
+      "#e45c10",
+      "#fca044",
+      "#000000",
+      "#fce0a8"
+    ],
+    "capturedAt": "2026-09-04T06:20:47.405Z"
+  }
+]
