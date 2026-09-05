@@ -1,0 +1,79 @@
+[
+  {
+    "id": "4a92f9c3-9756-4aa9-a710-093716e69ca8",
+    "label": "Sprite 11",
+    "kind": "sprite",
+    "filename": "4a92f9c3-9756-4aa9-a710-093716e69ca8.png",
+    "colors": [
+      "#d800cc",
+      "#f878f8",
+      "#f8b8f8"
+    ],
+    "capturedAt": "2026-09-05T21:37:53.652Z",
+    "contentHash": "0bc2d947966fc5eac77be299ab950eaebd3486f5537c8d54bf7f23c8f88f5dd9"
+  },
+  {
+    "id": "d90bc863-5990-4500-be7d-fae362e1678e",
+    "label": "Studio – frame 27 (pose 1)",
+    "kind": "sprite",
+    "filename": "d90bc863-5990-4500-be7d-fae362e1678e.png",
+    "colors": [
+      "#ac7c00",
+      "#d800cc",
+      "#f878f8",
+      "#f8b800",
+      "#f8b8f8",
+      "#f8d878"
+    ],
+    "capturedAt": "2026-09-05T21:43:14.799Z",
+    "contentHash": "aed0c551d0b7ce36c856a4328de6684e1d4f97406e1c07824c411580b48a1197"
+  },
+  {
+    "id": "d5a08c17-3e81-48f8-9557-c56fbc94b39c",
+    "label": "Studio – frame 28 (pose 2)",
+    "kind": "sprite",
+    "filename": "d5a08c17-3e81-48f8-9557-c56fbc94b39c.png",
+    "colors": [
+      "#ac7c00",
+      "#d800cc",
+      "#f878f8",
+      "#f8b800",
+      "#f8b8f8",
+      "#f8d878"
+    ],
+    "capturedAt": "2026-09-05T21:43:23.596Z",
+    "contentHash": "2aea6e5024b0c333211c6e50936a70686da9f6ea5172b1d748845998fb8ff56d"
+  },
+  {
+    "id": "a6364637-385e-4ed6-aa35-99fa476ed9a8",
+    "label": "Studio – frame 29 (pose 3)",
+    "kind": "sprite",
+    "filename": "a6364637-385e-4ed6-aa35-99fa476ed9a8.png",
+    "colors": [
+      "#ac7c00",
+      "#d800cc",
+      "#f878f8",
+      "#f8b800",
+      "#f8b8f8",
+      "#f8d878"
+    ],
+    "capturedAt": "2026-09-05T21:43:37.254Z",
+    "contentHash": "62a1afde8d22b415f1614cc013a6fd6bc6710ec257ac7af9cf0c497cd1f8bf7b"
+  },
+  {
+    "id": "5989f2bb-247e-4baf-a6a5-654af42bfd05",
+    "label": "Studio – frame 33 (pose 5)",
+    "kind": "sprite",
+    "filename": "5989f2bb-247e-4baf-a6a5-654af42bfd05.png",
+    "colors": [
+      "#ac7c00",
+      "#d800cc",
+      "#f878f8",
+      "#f8b800",
+      "#f8b8f8",
+      "#f8d878"
+    ],
+    "capturedAt": "2026-09-05T21:44:12.139Z",
+    "contentHash": "6dc71fea9a52656efb682f4612af1b52deb0d4265131f295820e6f32346d12b4"
+  }
+]

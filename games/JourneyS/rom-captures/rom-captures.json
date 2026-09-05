@@ -28,22 +28,6 @@
     "contentHash": "427e91ac25858c71fbaaedf236d586513ee3734c0ced763cb2efa5385af5600e"
   },
   {
-    "id": "1cbd9b40-9d2d-4890-9bb7-fabd92d93170",
-    "label": "colonne 21, ligne 19",
-    "kind": "background",
-    "filename": "1cbd9b40-9d2d-4890-9bb7-fabd92d93170.png",
-    "colors": [
-      "#000000",
-      "#005800",
-      "#00a844",
-      "#7c7c7c",
-      "#881400",
-      "#bcbcbc"
-    ],
-    "capturedAt": "2026-09-05T12:16:22.427Z",
-    "contentHash": "9584ddd3a6a91b78bd44cfbf26b7319d6b276668c920c81b6e9a748e6fb3a757"
-  },
-  {
     "id": "242a620e-e89f-4da9-b203-1345b14ee659",
     "label": "colonne 21, ligne 19 (recadré)",
     "kind": "background",
