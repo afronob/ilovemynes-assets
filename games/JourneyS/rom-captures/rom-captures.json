@@ -56,5 +56,20 @@
     ],
     "capturedAt": "2026-09-05T12:16:47.380Z",
     "contentHash": "3dd9ffbfd013c35a80ceb8cf2127076ec7b0ca52aceef1db1540b95664ccb9b1"
+  },
+  {
+    "id": "9d3b56cd-72a8-4779-b415-a7654b08b0a3",
+    "label": "Sprite 2",
+    "kind": "sprite",
+    "filename": "9d3b56cd-72a8-4779-b415-a7654b08b0a3.png",
+    "colors": [
+      "#000000",
+      "#3cbcfc",
+      "#f8f8f8",
+      "#fca044",
+      "#fce0a8"
+    ],
+    "capturedAt": "2026-09-05T12:43:48.888Z",
+    "contentHash": "8e869b02a358f97ec00e87106839ce23e467b6ab3e85f4e84a3f337968b57885"
   }
 ]
