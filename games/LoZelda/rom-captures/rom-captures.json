@@ -9,6 +9,110 @@
       "#b8f818",
       "#fca044"
     ],
-    "capturedAt": "2026-09-02T20:48:14.070Z"
+    "capturedAt": "2026-09-02T20:48:14.070Z",
+    "contentHash": "ce1c3fbd4b97caaf7c023bffade449b88b82ba3cb2ad3b431df8cd48c6208240"
+  },
+  {
+    "id": "933b7bf4-c33f-4238-8f8e-7c192783b557",
+    "label": "Sprite 4",
+    "kind": "sprite",
+    "filename": "933b7bf4-c33f-4238-8f8e-7c192783b557.png",
+    "colors": [
+      "#b8f818",
+      "#e45c10",
+      "#fca044"
+    ],
+    "capturedAt": "2026-09-06T09:31:21.040Z",
+    "contentHash": "5c94804be802777960df9457d0cf6f7f285c1b48c55559946eac05bbe398bc18"
+  },
+  {
+    "id": "000bd5f3-1aa2-46b0-b701-e9330b516d06",
+    "label": "Sprite 2",
+    "kind": "sprite",
+    "filename": "000bd5f3-1aa2-46b0-b701-e9330b516d06.png",
+    "colors": [
+      "#b8f818",
+      "#e45c10",
+      "#fca044"
+    ],
+    "capturedAt": "2026-09-06T09:34:26.646Z",
+    "contentHash": "e98485399fe6ad6b635903119a124136603eebf2e14b3f60227afcc2027db88b"
+  },
+  {
+    "id": "84ecf4e4-56ed-433d-8fa3-d110755d5e50",
+    "label": "link/transition_1.gif – frame 1/1",
+    "kind": "sprite",
+    "filename": "84ecf4e4-56ed-433d-8fa3-d110755d5e50.png",
+    "colors": [
+      "#88d800",
+      "#994e00",
+      "#ea9e22"
+    ],
+    "capturedAt": "2026-09-06T16:25:20.355Z",
+    "contentHash": "6b60cb44e8675457c3f750cdf9d98746af7f6e1d12c966c7ab42b572ae30052e"
+  },
+  {
+    "id": "8c3309ac-d6f7-409e-8908-cc5547c2871a",
+    "label": "link/transition_1.gif – frame 1/1 (recadré)",
+    "kind": "sprite",
+    "filename": "8c3309ac-d6f7-409e-8908-cc5547c2871a.png",
+    "colors": [
+      "#994e00",
+      "#ea9e22"
+    ],
+    "capturedAt": "2026-09-06T16:25:40.430Z",
+    "contentHash": "8aed7f2e42c076ff1b2d6aa67c057be47a43d4854ee524b1924399b6244088f9"
+  },
+  {
+    "id": "91bd3a58-ac68-48a6-a7fa-7df46c6a5634",
+    "label": "Studio – frame 44 (pose 1)",
+    "kind": "sprite",
+    "filename": "91bd3a58-ac68-48a6-a7fa-7df46c6a5634.png",
+    "colors": [
+      "#b8f818",
+      "#e45c10",
+      "#fca044"
+    ],
+    "capturedAt": "2026-09-06T16:29:15.750Z",
+    "contentHash": "e04463273e5888189988c27796d49ea75cdb5990efe183624d72211aa5d55e44"
+  },
+  {
+    "id": "0918b760-cd98-4f1e-a129-b996e80fe4f4",
+    "label": "Studio – frame 45 (pose 2)",
+    "kind": "sprite",
+    "filename": "0918b760-cd98-4f1e-a129-b996e80fe4f4.png",
+    "colors": [
+      "#0000bc",
+      "#fcfcfc",
+      "#6888fc"
+    ],
+    "capturedAt": "2026-09-06T16:29:22.828Z",
+    "contentHash": "a791a802b4f0dcc7c42b6e6b5a744b4cbf8b180fc74d09ba799fa45ee1193217"
+  },
+  {
+    "id": "d7257d6e-bf8b-4478-a9c9-fac084586788",
+    "label": "Studio – frame 46 (pose 3)",
+    "kind": "sprite",
+    "filename": "d7257d6e-bf8b-4478-a9c9-fac084586788.png",
+    "colors": [
+      "#f83800",
+      "#fcfcfc",
+      "#fca044"
+    ],
+    "capturedAt": "2026-09-06T16:29:30.390Z",
+    "contentHash": "93117f12ead7993938d6b019901d6ad6830a424d54ba09fec21588e23a267154"
+  },
+  {
+    "id": "a0e3c504-0c66-4521-a8d0-75d8f3a83bf2",
+    "label": "Studio – frame 47 (pose 4)",
+    "kind": "sprite",
+    "filename": "a0e3c504-0c66-4521-a8d0-75d8f3a83bf2.png",
+    "colors": [
+      "#000000",
+      "#f83800",
+      "#008888"
+    ],
+    "capturedAt": "2026-09-06T16:29:37.903Z",
+    "contentHash": "d2223863496afc884fdfdb5e0c5e4fdcfbf5d5e9a89a94091850747948bf9259"
   }
 ]
