@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4bf8c51c-ce9b-4598-92eb-679dfc0eef31",
+    "label": "Sprite 4",
+    "kind": "sprite",
+    "filename": "4bf8c51c-ce9b-4598-92eb-679dfc0eef31.png",
+    "colors": [
+      "#0000fc",
+      "#0078f8",
+      "#6844fc",
+      "#f8b800",
+      "#f8f8f8"
+    ],
+    "capturedAt": "2026-09-02T19:54:37.410Z"
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "id": "4e0f5bdb-47c8-44e2-9bed-0a7104d41125",
+    "label": "Sprite 1",
+    "kind": "sprite",
+    "filename": "4e0f5bdb-47c8-44e2-9bed-0a7104d41125.png",
+    "colors": [
+      "#881400",
+      "#f87858",
+      "#f8f8f8"
+    ],
+    "capturedAt": "2026-09-04T11:21:14.235Z",
+    "contentHash": "a163abbdb4283c3ea3fa0921460c89e1b5eda099557153905cbf0c90344a3a69"
+  },
+  {
+    "id": "59cf6716-c1f9-4fc5-9abf-ccd394230912",
+    "label": "Sprite 9",
+    "kind": "sprite",
+    "filename": "59cf6716-c1f9-4fc5-9abf-ccd394230912.png",
+    "colors": [
+      "#881400",
+      "#f87858",
+      "#f8f8f8"
+    ],
+    "capturedAt": "2026-09-04T11:23:39.474Z"
+  },
+  {
+    "id": "eadd1af9-81aa-49ec-85a7-7874ed232856",
+    "label": "Sprite 6",
+    "kind": "sprite",
+    "filename": "eadd1af9-81aa-49ec-85a7-7874ed232856.png",
+    "colors": [
+      "#0000bc",
+      "#a4e4fc",
+      "#e40058"
+    ],
+    "capturedAt": "2026-09-04T11:23:41.252Z"
+  },
+  {
+    "id": "24065e22-019f-478f-b335-70e8f9a0d312",
+    "label": "Sprite 5",
+    "kind": "sprite",
+    "filename": "24065e22-019f-478f-b335-70e8f9a0d312.png",
+    "colors": [
+      "#881400",
+      "#f87858",
+      "#f8f8f8"
+    ],
+    "capturedAt": "2026-09-04T11:23:43.067Z"
+  },
+  {
+    "id": "e83b028e-379d-4c65-b9d7-b46a946c5cd3",
+    "label": "Sprite 2",
+    "kind": "sprite",
+    "filename": "e83b028e-379d-4c65-b9d7-b46a946c5cd3.png",
+    "colors": [
+      "#0000bc",
+      "#a4e4fc",
+      "#e40058"
+    ],
+    "capturedAt": "2026-09-04T11:23:45.129Z"
+  },
+  {
+    "id": "f2af51f7-1bdd-42aa-b596-9e00b11c737e",
+    "label": "Sprite 1",
+    "kind": "sprite",
+    "filename": "f2af51f7-1bdd-42aa-b596-9e00b11c737e.png",
+    "colors": [
+      "#0000bc",
+      "#a4e4fc",
+      "#e40058"
+    ],
+    "capturedAt": "2026-09-04T11:23:47.784Z"
+  },
+  {
+    "id": "b397c855-f82c-43fa-8735-a365f36b2daf",
+    "label": "Sprite 3",
+    "kind": "sprite",
+    "filename": "b397c855-f82c-43fa-8735-a365f36b2daf.png",
+    "colors": [
+      "#881400",
+      "#f87858",
+      "#f8f8f8"
+    ],
+    "capturedAt": "2026-09-04T11:23:50.417Z"
+  },
+  {
+    "id": "9f88956f-416a-4da6-8e95-832b265f8646",
+    "label": "colonne 21, ligne 20 (recadré)",
+    "kind": "background",
+    "filename": "9f88956f-416a-4da6-8e95-832b265f8646.png",
+    "colors": [
+      "#000000",
+      "#f85898",
+      "#7c7c7c"
+    ],
+    "capturedAt": "2026-09-04T11:24:19.167Z"
+  }
+]

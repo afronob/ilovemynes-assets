@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 14 16" width="14" height="16"
+     shape-rendering="crispEdges">
+<g id="frame0" opacity="1">
+  <rect x="2" y="0" width="4" height="1" fill="#f83800"/>
+  <rect x="8" y="0" width="4" height="1" fill="#f83800"/>
+  <rect x="2" y="1" width="4" height="1" fill="#f83800"/>
+  <rect x="8" y="1" width="4" height="1" fill="#f83800"/>
+  <rect x="0" y="2" width="14" height="1" fill="#f83800"/>
+  <rect x="0" y="3" width="14" height="1" fill="#f83800"/>
+  <rect x="0" y="4" width="14" height="1" fill="#f83800"/>
+  <rect x="0" y="5" width="14" height="1" fill="#f83800"/>
+  <rect x="0" y="6" width="14" height="1" fill="#f83800"/>
+  <rect x="0" y="7" width="14" height="1" fill="#f83800"/>
+  <rect x="0" y="8" width="14" height="1" fill="#f83800"/>
+  <rect x="0" y="9" width="14" height="1" fill="#f83800"/>
+  <rect x="2" y="10" width="10" height="1" fill="#f83800"/>
+  <rect x="2" y="11" width="10" height="1" fill="#f83800"/>
+  <rect x="4" y="12" width="6" height="1" fill="#f83800"/>
+  <rect x="4" y="13" width="6" height="1" fill="#f83800"/>
+  <rect x="6" y="14" width="2" height="1" fill="#f83800"/>
+  <rect x="6" y="15" width="2" height="1" fill="#f83800"/>
+</g>
+<g id="frame1" opacity="0">
+</g>
+  <animate xlink:href="#frame0" attributeName="opacity" values="1;0;1" keyTimes="0.0;0.5;1.0" dur="0.2s" calcMode="discrete" repeatCount="indefinite"/>
+  <animate xlink:href="#frame1" attributeName="opacity" values="0;1;0" keyTimes="0.0;0.5;1.0" dur="0.2s" calcMode="discrete" repeatCount="indefinite"/>
+</svg>

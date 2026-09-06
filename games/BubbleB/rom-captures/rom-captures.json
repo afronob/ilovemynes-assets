@@ -1,0 +1,37 @@
+[
+  {
+    "id": "d1c776c8-b69e-450a-bb98-319936553c1c",
+    "label": "Sprite 1",
+    "kind": "sprite",
+    "filename": "d1c776c8-b69e-450a-bb98-319936553c1c.png",
+    "colors": [
+      "#00e8d8",
+      "#9878f8",
+      "#fcfcfc"
+    ],
+    "capturedAt": "2026-09-04T06:58:32.574Z"
+  },
+  {
+    "id": "6113e07c-d8b5-4ebc-b3b6-2178f2fcf110",
+    "label": "Sprite 0",
+    "kind": "sprite",
+    "filename": "6113e07c-d8b5-4ebc-b3b6-2178f2fcf110.png",
+    "colors": [
+      "#58d854",
+      "#f87858",
+      "#fcfcfc"
+    ],
+    "capturedAt": "2026-09-04T06:58:39.488Z"
+  },
+  {
+    "id": "9aae2d5a-57e2-4fc7-b635-af42667713c5",
+    "label": "colonne 12, ligne 16 (recadré)",
+    "kind": "background",
+    "filename": "9aae2d5a-57e2-4fc7-b635-af42667713c5.png",
+    "colors": [
+      "#f878f8",
+      "#f8b8f8"
+    ],
+    "capturedAt": "2026-09-04T06:59:21.995Z"
+  }
+]

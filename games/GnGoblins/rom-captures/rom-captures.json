@@ -1,0 +1,57 @@
+[
+  {
+    "id": "b761d5d8-edfe-4cd9-b46d-265bfc406bb1",
+    "label": "Arthur Idle",
+    "kind": "sprite",
+    "filename": "b761d5d8-edfe-4cd9-b46d-265bfc406bb1.png",
+    "colors": [
+      "#000000",
+      "#ac7c00",
+      "#f0d0b0",
+      "#f83800",
+      "#f8f8f8"
+    ],
+    "capturedAt": "2026-09-01T19:09:07.132Z"
+  },
+  {
+    "id": "02a36284-7869-4ccf-80c0-669a7a7a1051",
+    "label": "Tir1",
+    "kind": "sprite",
+    "filename": "02a36284-7869-4ccf-80c0-669a7a7a1051.png",
+    "colors": [
+      "#000000",
+      "#ac7c00",
+      "#f0d0b0",
+      "#f83800",
+      "#f8f8f8"
+    ],
+    "capturedAt": "2026-09-02T16:01:07.617Z"
+  },
+  {
+    "id": "7cafe639-1f9f-4a95-98e5-851624e5534c",
+    "label": "Tir2",
+    "kind": "sprite",
+    "filename": "7cafe639-1f9f-4a95-98e5-851624e5534c.png",
+    "colors": [
+      "#000000",
+      "#ac7c00",
+      "#f0d0b0",
+      "#f8f8f8"
+    ],
+    "capturedAt": "2026-09-02T16:01:13.476Z"
+  },
+  {
+    "id": "32bb5faf-09b4-4f85-af5c-9a4443c956b9",
+    "label": "Tir1-2",
+    "kind": "sprite",
+    "filename": "32bb5faf-09b4-4f85-af5c-9a4443c956b9.png",
+    "colors": [
+      "#000000",
+      "#ac7c00",
+      "#f0d0b0",
+      "#f83800",
+      "#f8f8f8"
+    ],
+    "capturedAt": "2026-09-02T16:02:46.597Z"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "062094cb-48b7-44ad-bab9-7e0b89ff74d9",
+    "name": "RC-011",
+    "captureIds": [
+      "b1199795-e291-42af-b8b0-40bd2b4a1fe0",
+      "3cc6615c-3a75-4150-864c-96a4067483b8",
+      "a97a6a89-4967-4a50-8ac9-d4e173716340",
+      "b406f666-c2d4-4c2c-9e26-52499cda6418",
+      "54d45e5d-24ed-42eb-8176-17cd85bc5792"
+    ]
+  },
+  {
+    "id": "7c9998cc-e283-4f4b-bffc-75fff92e8c0e",
+    "name": "RC-008",
+    "captureIds": [
+      "abbac6f9-30ff-4067-824e-0abd531cf267",
+      "bb705014-8436-4fa1-bac0-b52db657ca39",
+      "799ac118-eed1-4dc9-820d-c4cccf1cfdfa",
+      "cabb834b-bbba-4db3-9f86-20092440b6cf",
+      "b9b85534-d5a5-4de0-9ea2-7ecf43e3adc2"
+    ]
+  }
+]

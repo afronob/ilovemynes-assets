@@ -1,0 +1,56 @@
+[
+  {
+    "id": "45ef9793-b22d-44e6-9213-2052a32d29d0",
+    "label": "Sprite 1",
+    "kind": "sprite",
+    "filename": "45ef9793-b22d-44e6-9213-2052a32d29d0.png",
+    "colors": [
+      "#000000",
+      "#f0d0b0",
+      "#fcfcfc"
+    ],
+    "capturedAt": "2026-09-06T06:59:16.878Z",
+    "contentHash": "02bc0fc518be17e5ff779a53c37d27e3e2eb9c2b9298e0e79af9f478ca888697"
+  },
+  {
+    "id": "cce04db7-cbd4-4c18-95b5-381ef1240ff5",
+    "label": "Sprite 0",
+    "kind": "sprite",
+    "filename": "cce04db7-cbd4-4c18-95b5-381ef1240ff5.png",
+    "colors": [
+      "#000000",
+      "#f0d0b0",
+      "#fcfcfc"
+    ],
+    "capturedAt": "2026-09-06T06:59:20.565Z",
+    "contentHash": "2add8678d0472129dd7507971f55b1b7c188821a656d951fae211955761d1b77"
+  },
+  {
+    "id": "021b9ffa-4c6e-4781-99a8-a48d2e155e38",
+    "label": "colonne 17, ligne 19 (recadré)",
+    "kind": "background",
+    "filename": "021b9ffa-4c6e-4781-99a8-a48d2e155e38.png",
+    "colors": [
+      "#000000",
+      "#fcfcfc",
+      "#00e8d8",
+      "#bcbcbc"
+    ],
+    "capturedAt": "2026-09-06T07:00:34.901Z",
+    "contentHash": "e372a5316d488940f065288d984b9b4572dbef9ca90caf37e04318bea4b1c1fa"
+  },
+  {
+    "id": "dcb68335-63e1-4081-a615-c97be52cbcb1",
+    "label": "colonne 12, ligne 18 (recadré)",
+    "kind": "background",
+    "filename": "dcb68335-63e1-4081-a615-c97be52cbcb1.png",
+    "colors": [
+      "#58f898",
+      "#008888",
+      "#fcfcfc",
+      "#000000"
+    ],
+    "capturedAt": "2026-09-06T07:10:13.648Z",
+    "contentHash": "3cf934b2fb91863d2f2bf1c8cc8f168cba444b454253f2f6c7812639398f8d09"
+  }
+]

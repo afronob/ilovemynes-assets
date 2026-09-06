@@ -1,0 +1,54 @@
+[
+  {
+    "id": "45727e0a-3c42-421a-968b-7f72bb174cd9",
+    "label": "Luke #0",
+    "kind": "sprite",
+    "filename": "45727e0a-3c42-421a-968b-7f72bb174cd9.png",
+    "colors": [
+      "#f83800",
+      "#f87858",
+      "#fcfcfc"
+    ],
+    "capturedAt": "2026-09-05T16:45:06.201Z",
+    "contentHash": "1e397680232200c1776645b70d4829ee8edc0bbb597e43e0b6a4e54baae20c46"
+  },
+  {
+    "id": "062af655-cf3e-4972-8280-dd87edf61a58",
+    "label": "Luke #4",
+    "kind": "sprite",
+    "filename": "062af655-cf3e-4972-8280-dd87edf61a58.png",
+    "colors": [
+      "#000000",
+      "#fca044",
+      "#fcfcfc"
+    ],
+    "capturedAt": "2026-09-05T16:45:06.205Z",
+    "contentHash": "4add8f1d52a08c2db8b7d9d01b6b2a1632dc40ddba957a8e5f6ead25c5c387d1"
+  },
+  {
+    "id": "9dbf1d0a-30a2-40f5-a4cf-36c60a6cef30",
+    "label": "Luke #5",
+    "kind": "sprite",
+    "filename": "9dbf1d0a-30a2-40f5-a4cf-36c60a6cef30.png",
+    "colors": [
+      "#000000",
+      "#fca044",
+      "#fcfcfc"
+    ],
+    "capturedAt": "2026-09-05T16:45:06.206Z",
+    "contentHash": "dd3c007353db10238fc190e3f351a52b100699b98c4cd457daf7d7c5f5157706"
+  },
+  {
+    "id": "1d8d62cc-d254-49ab-a8b4-1e1e84d2a8d8",
+    "label": "Luke #6",
+    "kind": "sprite",
+    "filename": "1d8d62cc-d254-49ab-a8b4-1e1e84d2a8d8.png",
+    "colors": [
+      "#000000",
+      "#fca044",
+      "#fcfcfc"
+    ],
+    "capturedAt": "2026-09-05T16:45:06.207Z",
+    "contentHash": "2d0087c4fe4c2856f24e2d5a9d4c28738f78cea2657befed6465b39e15bb4748"
+  }
+]

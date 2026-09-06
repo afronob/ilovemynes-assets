@@ -1,0 +1,16 @@
+[
+  {
+    "id": "70de6f28-1e78-4ea2-b9b1-76867d9a8673",
+    "label": "Sprite 0",
+    "kind": "sprite",
+    "filename": "70de6f28-1e78-4ea2-b9b1-76867d9a8673.png",
+    "colors": [
+      "#000000",
+      "#d800cc",
+      "#f83800",
+      "#f8b800",
+      "#f8f8f8"
+    ],
+    "capturedAt": "2026-09-02T20:11:08.470Z"
+  }
+]

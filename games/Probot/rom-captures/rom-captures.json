@@ -1,0 +1,187 @@
+[
+  {
+    "id": "e35eefc5-f3bd-4c29-89c3-0265843ba453",
+    "label": "Studio – frame 1 (pose 1)",
+    "kind": "sprite",
+    "filename": "e35eefc5-f3bd-4c29-89c3-0265843ba453.png",
+    "colors": [
+      "#000000",
+      "#0058f8",
+      "#b8b8f8"
+    ],
+    "capturedAt": "2026-09-04T15:20:18.316Z",
+    "contentHash": "52cbf6196c547ebd5585caac18bff07efe8eba6e7eac7c06d4fa1be20bbbaffc"
+  },
+  {
+    "id": "a97a6a89-4967-4a50-8ac9-d4e173716340",
+    "label": "Studio – frame 57 (pose 2)",
+    "kind": "sprite",
+    "filename": "a97a6a89-4967-4a50-8ac9-d4e173716340.png",
+    "colors": [
+      "#000000",
+      "#b8b8f8",
+      "#0058f8"
+    ],
+    "capturedAt": "2026-09-04T15:20:53.852Z",
+    "contentHash": "6cc7d4e1e0115b7f4715b69fb314fc3a1c747050b629e5680be7181d443449cc"
+  },
+  {
+    "id": "b406f666-c2d4-4c2c-9e26-52499cda6418",
+    "label": "Studio – frame 63 (pose 3)",
+    "kind": "sprite",
+    "filename": "b406f666-c2d4-4c2c-9e26-52499cda6418.png",
+    "colors": [
+      "#000000",
+      "#b8b8f8",
+      "#0058f8"
+    ],
+    "capturedAt": "2026-09-04T15:21:19.276Z",
+    "contentHash": "0fc5009df1c12475f0eef3f21693cf7ef1373ed8476e0bcbd5afa865b7162ebf"
+  },
+  {
+    "id": "3cc6615c-3a75-4150-864c-96a4067483b8",
+    "label": "Studio – frame 70 (pose 4)",
+    "kind": "sprite",
+    "filename": "3cc6615c-3a75-4150-864c-96a4067483b8.png",
+    "colors": [
+      "#000000",
+      "#0058f8",
+      "#b8b8f8"
+    ],
+    "capturedAt": "2026-09-04T15:21:54.025Z",
+    "contentHash": "44ecfb13096dc78fbdac005c237d0447261462ad71715266d49fcbd36a6498e9"
+  },
+  {
+    "id": "54d45e5d-24ed-42eb-8176-17cd85bc5792",
+    "label": "Studio – frame 78 (pose 5)",
+    "kind": "sprite",
+    "filename": "54d45e5d-24ed-42eb-8176-17cd85bc5792.png",
+    "colors": [
+      "#000000",
+      "#0058f8",
+      "#b8b8f8"
+    ],
+    "capturedAt": "2026-09-04T15:22:25.652Z",
+    "contentHash": "48690b0554fc97cfb433f1952e44873f9efd2cd2aa722bea421259dd0af74dd0"
+  },
+  {
+    "id": "b1199795-e291-42af-b8b0-40bd2b4a1fe0",
+    "label": "Studio – frame 87 (pose 6)",
+    "kind": "sprite",
+    "filename": "b1199795-e291-42af-b8b0-40bd2b4a1fe0.png",
+    "colors": [
+      "#000000",
+      "#0058f8",
+      "#b8b8f8"
+    ],
+    "capturedAt": "2026-09-04T15:22:53.224Z",
+    "contentHash": "706d126ee7e968fceef0f7154599b3be8be672a61d5ac199c02dd6bd68a4f720"
+  },
+  {
+    "id": "c99efc90-4685-49e8-95e8-636b597412f5",
+    "label": "rd008/idle.gif – frame 1/1",
+    "kind": "sprite",
+    "filename": "c99efc90-4685-49e8-95e8-636b597412f5.png",
+    "colors": [
+      "#000000",
+      "#616161",
+      "#ffffff"
+    ],
+    "capturedAt": "2026-09-04T16:25:12.234Z",
+    "contentHash": "3ee7eb011e0efef180800cf19b55c0a1172d3270968c59852a35fa294737339c"
+  },
+  {
+    "id": "abbac6f9-30ff-4067-824e-0abd531cf267",
+    "label": "rd008/move.gif – frame 1/6",
+    "kind": "sprite",
+    "filename": "abbac6f9-30ff-4067-824e-0abd531cf267.png",
+    "colors": [
+      "#000000",
+      "#616161",
+      "#ffffff"
+    ],
+    "capturedAt": "2026-09-04T16:25:17.768Z",
+    "contentHash": "e3237a63680d5c61372929301f9464f97e360afc540a5dbe261fb85de3121539"
+  },
+  {
+    "id": "bb705014-8436-4fa1-bac0-b52db657ca39",
+    "label": "rd008/move.gif – frame 2/6",
+    "kind": "sprite",
+    "filename": "bb705014-8436-4fa1-bac0-b52db657ca39.png",
+    "colors": [
+      "#000000",
+      "#616161",
+      "#ffffff"
+    ],
+    "capturedAt": "2026-09-04T16:25:17.768Z",
+    "contentHash": "38713ab79cfab5915559a5b501d1f2b67b5f3d59b063f771e40cf1d7e701a965"
+  },
+  {
+    "id": "799ac118-eed1-4dc9-820d-c4cccf1cfdfa",
+    "label": "rd008/move.gif – frame 3/6",
+    "kind": "sprite",
+    "filename": "799ac118-eed1-4dc9-820d-c4cccf1cfdfa.png",
+    "colors": [
+      "#000000",
+      "#616161",
+      "#ffffff"
+    ],
+    "capturedAt": "2026-09-04T16:25:17.772Z",
+    "contentHash": "998836b702b1dde44f6ac153a6ffe7885abbebbf9c0d90c0ccbc1ef3b78554e3"
+  },
+  {
+    "id": "cabb834b-bbba-4db3-9f86-20092440b6cf",
+    "label": "rd008/move.gif – frame 4/6",
+    "kind": "sprite",
+    "filename": "cabb834b-bbba-4db3-9f86-20092440b6cf.png",
+    "colors": [
+      "#000000",
+      "#616161",
+      "#ffffff"
+    ],
+    "capturedAt": "2026-09-04T16:25:17.772Z",
+    "contentHash": "e794361e726d31b2536c99b13aaf9c38c144729f025bd623cf38411ba2d38cc6"
+  },
+  {
+    "id": "8005a150-feed-42d1-afe4-df2a80eafeac",
+    "label": "rd008/move.gif – frame 5/6",
+    "kind": "sprite",
+    "filename": "8005a150-feed-42d1-afe4-df2a80eafeac.png",
+    "colors": [
+      "#000000",
+      "#616161",
+      "#ffffff"
+    ],
+    "capturedAt": "2026-09-04T16:25:17.772Z",
+    "contentHash": "38713ab79cfab5915559a5b501d1f2b67b5f3d59b063f771e40cf1d7e701a965"
+  },
+  {
+    "id": "b9b85534-d5a5-4de0-9ea2-7ecf43e3adc2",
+    "label": "rd008/move.gif – frame 6/6",
+    "kind": "sprite",
+    "filename": "b9b85534-d5a5-4de0-9ea2-7ecf43e3adc2.png",
+    "colors": [
+      "#000000",
+      "#616161",
+      "#ffffff"
+    ],
+    "capturedAt": "2026-09-04T16:25:17.772Z",
+    "contentHash": "05e0e789db42ec3bb49effe5f0e72fcf9e3336d67ef8668b9c3b50de79ff5bba"
+  },
+  {
+    "id": "4bec4454-2d01-4541-a12f-afcab59e229e",
+    "label": "colonne 18, ligne 13 (recadré)",
+    "kind": "background",
+    "filename": "4bec4454-2d01-4541-a12f-afcab59e229e.png",
+    "colors": [
+      "#000000",
+      "#00b800",
+      "#b8f818",
+      "#503000",
+      "#ac7c00",
+      "#f8b800"
+    ],
+    "capturedAt": "2026-09-05T11:31:36.421Z",
+    "contentHash": "4249f847faedbc8e1605ff372361f52c932e774dd03441172c4178f05d443298"
+  }
+]
